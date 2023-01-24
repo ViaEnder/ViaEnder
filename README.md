@@ -4,8 +4,7 @@ Hi 👋 My name is ViaEnder
 * 🌍  I'm based in Berlin
 * 🖥️  See my portfolio at [ViaEnder](http://ViaEnder.de)
 * ✉️  You can contact me at [Kontakt@viaender.de](mailto:Kontakt@viaender.de)
-* 🚀  I'm currently working on [Web-Biblio](http://biblio.viaender.de)
-* 🧠  I'm learning PHP
+* 🚀  I'm currently working on [StaffCore](https://staffcore-env.net)
 * 🤝  I'm open to collaborating on Java/Maven Projects
 
 <a href="https://www.github.com/ViaEnder" target="_blank" rel="noreferrer"><img
